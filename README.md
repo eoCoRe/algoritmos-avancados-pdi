@@ -1,6 +1,6 @@
 # PDI — Plano de Desenvolvimento Individual
 **Disciplina:** Algoritmos Avançados  
-**Vencimento:** 16/03/2026 às 23:59
+
 
 ---
 
