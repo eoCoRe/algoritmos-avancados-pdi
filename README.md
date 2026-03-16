@@ -45,10 +45,14 @@ Minha principal motivação é evoluir tecnicamente para aplicar algoritmos mais
 
 ---
 
-## 4. Rotina Semanal de Estudo
-* **Terça-feira (19:00 - 21:00):** Teoria, leitura do material da disciplina e vídeos de apoio.
-* **Quinta-feira (19:00 - 21:30):** Implementação prática e resolução da lista de exercícios oficial.
-* **Sábado (09:00 - 11:30):** Revisão dos códigos e aplicação em desafios extras (LeetCode/HackerRank).
+4. Rotina Semanal de Estudo
+Quarta-feira (19:30 - 22:30): Intensivão de Teoria e Prática
+
+Atividade: Dedicar a primeira hora para absorver o conteúdo da semana (vídeos/leituras) e as duas horas seguintes para já iniciar a implementação dos algoritmos e exercícios da lista oficial. O foco aqui é não deixar a matéria acumular.
+
+Sábado (09:00 - 12:00): Revisão e Desafios de Performance
+
+Atividade: Revisar os códigos feitos na quarta, realizar a análise de complexidade (Big O) com calma e tentar aplicar o conceito em um desafio extra (LeetCode) ou em uma lógica que faça sentido para os projetos da NeoCredit.
 
 ---
 
